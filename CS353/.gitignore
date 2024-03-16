@@ -1,0 +1,6 @@
+c_part/TP2/liste
+c_part/TP1/liste
+c_part/TP3/*.o
+c_part/TP3/main*
+.vscode/
+java_part/TP7-8-Bloom/urls/*.txt

@@ -1,0 +1,13 @@
+tp2/_code/*.class
+tp2/_code/*.bluej
+tp2/_code/*.ctxt
+
+tp3/_code/Restaurant/*.class
+tp3/_code/Restaurant/*.ctxt
+tp3/_code/Restaurant/*.bluej
+tp3/_code/package.bluej
+
+tp4/_code/*/FSMIO/*.class
+*.class
+*/*.class
+*/*/*.class
